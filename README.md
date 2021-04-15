@@ -1,2 +1,2 @@
-# self-repo-template
-self-repo-template
+# eslint-config
+eslint-config
